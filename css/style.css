@@ -1479,7 +1479,7 @@ footer .creadit p {
 	.home .header {
 		display: block;
 		text-align: center;
-		margin-bottom: 3rem;
+		margin-bottom: 5rem;
 	}
 
 	.home .header .man {
@@ -1494,9 +1494,13 @@ footer .creadit p {
 		font-size: 3.8rem;
 	}
 
+	.home .home-content .image img {
+	        margin-bottom: 3.5rem:
+        }
+
 	.home .acara .wedding {
 		font-size: 3.8rem;
-		margin-bottom: 1rem;
+		margin-bottom: 0.8rem;
 	}
 
 	.home .acara .name {
@@ -1504,7 +1508,7 @@ footer .creadit p {
 	}
 
 	.home .navigasi {
-		margin-top: 2rem;
+		margin-top: 4rem;
 	}
 
 	.home .navigasi .navigasi-nav a {
@@ -1575,8 +1579,8 @@ footer .creadit p {
 	}
 
 	.bride .container1 .button2 {
-		left: 8%;
-		width: 84%;
+		left: 4%;
+		width: 92%;
 	}
 
 	.bride .container1 .dots2 {
@@ -1598,8 +1602,8 @@ footer .creadit p {
 	}
 
 	.bride-woman .container3 .button3 {
-		left: 8%;
-		width: 84%;
+		left: 4%;
+		width: 92%;
 	}
 
 	.bride-woman .container3 .dots3 {
@@ -1634,8 +1638,8 @@ footer .creadit p {
 	}
 
 	.memory .container4 .button4 {
-		left: 7%;
-		width: 85.5%;
+		left: 4%;
+		width: 92%;
 	}
 
 	.memory .container4 .dots4 {
